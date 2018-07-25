@@ -8,5 +8,7 @@ Ninjax
 
 Travelers
 
+GoldView
+
 # MegaCity
 Mega-men
