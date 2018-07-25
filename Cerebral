@@ -1,0 +1,13 @@
+//Cerebral
+#include<iostream>
+using namespace std;
+int main
+{
+//characters
+int 1 = "Abel_Ortiz";
+
+//create a class/object for each character
+// (Basic) name,number, World/Verse, Alter-Ego, Age, Gender, Ethnicity/Species, Occupation/Job, Power Rankings, Powers
+// (Appearance) Height, Weight, Skin Tone, Facial Shape, Eye color, Distinguishable 
+//features, Hair style, Body type, posture, Dress, paraphenaelia, accessories 
+}
