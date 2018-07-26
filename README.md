@@ -1,9 +1,11 @@
 # Zelbon
+//Tech
 Zelbon Industries
 
 Z-bots
 
 # Cerebral
+//Stories
 Ninjax
 
 Travelers
@@ -11,4 +13,5 @@ Travelers
 GoldView
 
 # MegaCity
+//Environment
 Mega-men
