@@ -1,3 +1,0 @@
-Goldview
-  Mormount
-  Lochwynne
